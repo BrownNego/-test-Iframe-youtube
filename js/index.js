@@ -1,6 +1,6 @@
 // Videos
-let magic = 'https://www.youtube.com/embed/Qtb11P1FWnc'
-let paradise = 'https://www.youtube.com/embed/1G4isv_Fylg'
+let magic = 'https://www.youtube.com/embed/b0djeyLi_Jg'
+let paradise = 'https://www.youtube.com/embed/pNg2NoAwlkg'
 let sky = 'https://www.youtube.com/embed/uREb6T4Tsgk'
 let adventure = 'https://www.youtube.com/embed/vzHwYQJ9cCA'
 let vivaLaVida = 'https://www.youtube.com/embed/vUnWFsc5WBU'

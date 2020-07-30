@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+#container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#comboVideos {
+    border: 1px solid black;
+    width: 800px;
+}
+
+#comboVideos ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 2px;
+}
+
+#comboVideos ul li {
+    list-style-type: none;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+#destaque {
+    margin-top: 50px;
+}
+
+#destaque iframe {
+    width: 40em;
+    height: 25em;
+}
